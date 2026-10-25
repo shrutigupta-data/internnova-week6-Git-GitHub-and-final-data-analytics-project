@@ -1,0 +1,25 @@
+student_id,name,department,english,mathematics,science,computer_science,attendance
+STU001,Aarav Mehta,Computer Science,91,94,89,98,96
+STU002,Maya Chen,Engineering,84,78,88,92,91
+STU003,Noah Williams,Science,76,82,80,74,88
+STU004,Imani Okafor,Arts,68,73,71,66,85
+STU005,Leo Martinez,Computer Science,95,89,93,97,98
+STU006,Sofia Patel,Engineering,58,62,55,70,79
+STU007,Ethan Brooks,Science,44,39,61,57,82
+STU008,Zara Hassan,Arts,88,91,86,84,94
+STU009,Oliver Kim,Computer Science,73,69,77,81,87
+STU010,Amara Johnson,Engineering,64,58,62,60,76
+STU011,Lucas Silva,Science,39,71,68,74,80
+STU012,Anika Rao,Computer Science,82,85,90,87,93
+STU013,Jack Thompson,Arts,51,47,56,49,72
+STU014,Leila Haddad,Engineering,79,83,75,80,90
+STU015,Caleb Nguyen,Science,67,72,64,69,84
+STU016,Freya Clarke,Arts,92,87,91,89,97
+STU017,Mateo Rivera,Computer Science,48,55,42,61,75
+STU018,Chloe Davis,Engineering,86,90,82,88,92
+STU019,Arjun Desai,Science,60,64,58,63,78
+STU020,Nia Williams,Arts,74,77,72,70,86
+STU021,Daniel Park,Computer Science,40,40,40,40,68
+STU022,Priya Shah,Engineering,99,96,94,100,99
+STU023,Samuel Reed,Science,83,39,85,90,89
+STU024,Elena Petrova,Arts,55,59,62,57,81
